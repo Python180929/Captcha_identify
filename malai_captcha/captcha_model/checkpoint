@@ -1,0 +1,6 @@
+model_checkpoint_path: "captcha-69200"
+all_model_checkpoint_paths: "captcha-68800"
+all_model_checkpoint_paths: "captcha-68900"
+all_model_checkpoint_paths: "captcha-69000"
+all_model_checkpoint_paths: "captcha-69100"
+all_model_checkpoint_paths: "captcha-69200"
